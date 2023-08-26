@@ -12,7 +12,7 @@
 ## Problem statement:
 The purpose of this project is to define proper KPIs in total employee, total attrition, employee avg salary, avg tenure in company and create the visualization for the HR manager that reflect all relevent KPIs and metrics in dataset
 
-## Data Source: [HR attrition dataset]
+## Data Source: [HR attrition dataset](https://github.com/Ananya-Foujdar05/HR-Employee-Analysis-Dashboard/blob/main/HR-Employee-Attrition.csv)
 
 
 ## Data preparation:
